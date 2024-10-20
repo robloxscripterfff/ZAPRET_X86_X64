@@ -30,3 +30,17 @@ https://github.com/VayuL/Zapret_X64_X86/archive/refs/heads/main.zip - Ссылк
 sc stop WinDivert
 sc delete WinDivert
 ```
+## Linux
+В оригинальном репозитории [zapret](https://github.com/bol-van/zapret/) имеется достаточно информации для того, чтобы начать пользоваться обходом блокировок, но и стоит понимать, что нажатием одной кнопки ничего не заработает. \
+Достаточно следовать следующим инструкциям и всё внимательно читать:
+- [zapret/docs/quick_start.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start.txt)
+- [zapret/docs/readme.txt](https://github.com/bol-van/zapret/blob/master/docs/readme.txt)
+  * https://github.com/Flowseal/zapret-discord-youtube/issues/7
+> [!WARNING]
+> Если вы открываете Issue *(в этом репозитории)* с проблемой в использовании на **Linux**, то, как бы это не звучало, это ошибка. Все вопросы по работе на Linux нужно открывать в **[ОРИГИНАЛЬНОМ](https://github.com/bol-van/zapret/)** репозитории. Следовательно, задавайте вопросы [тут](https://github.com/bol-van/zapret/issues/).
+
+## Support
+
+Вы можете поддержать проект, поставив :star: (сверху справа репозитория)!  
+Также, вы можете поддержать разработчика [оригинального репозитория zapret](https://github.com/bol-van/zapret/issues/590) тут - https://github.com/bol-van/zapret/issues/590
+* Many thanks to [bol-van](https://github.com/bol-van/), creator of original [zapret](https://github.com/bol-van/zapret/) repository.

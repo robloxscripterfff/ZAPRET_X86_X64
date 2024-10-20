@@ -24,7 +24,7 @@ https://github.com/VayuL/Zapret_X64_X86/archive/refs/heads/main.zip - Ссылк
 - Попробуйте обновить бинарники с оригинального репозитория.
 
 ### Остановка и удаление обхода
-Для этого запустите **`service_remove.bat`**.
+Для этого запустите **`service_uninstall.bat`**.
 - Если WinDivert так и не удалился, узнайте его название с помощью команды `driverquery | find "Divert"` в cmd, а затем удалите данными командами (заместо WinDivert введите название, которые вы узнали):
 ```
 sc stop WinDivert

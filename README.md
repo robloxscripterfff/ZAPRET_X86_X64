@@ -4,7 +4,7 @@
 3. Для того чтобы добавить zapret в автозагрузку откройте от имени администратора bat-файл service_install.
 4. Для того чтобы убрать из автозапуска zapret откройте от имени администратора bat-файл service_uninstall.
 5. Для того чтобы через zapret проходили только нужные вам сайты используйте bat-файл с припиской autohostlist
-https://github.com/VayuL/Zapret_X64_X86/archive/refs/heads/main.zip - Ссылка на файл
+## https://github.com/VayuL/Zapret_X64_X86/archive/refs/heads/main.zip - Ссылка на файл
 ## Решение проблем
 - Проверьте, запускаете ли вы файлы от **ИМЕНИ АДМИНИСТРАТОРА**
 - Не запускаются bat файлы? Попробуйте запустить **`service_uninstall.bat`** от **ИМЕНИ АДМИНИСТРАТОРА**

@@ -7,7 +7,7 @@
 https://github.com/VayuL/Zapret_X64_X86/archive/refs/heads/main.zip - Ссылка на файл
 ## Решение проблем
 - Проверьте, запускаете ли вы файлы от **ИМЕНИ АДМИНИСТРАТОРА**
-- Не запускаются bat файлы? Попробуйте запустить **`service_remove.bat`** от **ИМЕНИ АДМИНИСТРАТОРА**
+- Не запускаются bat файлы? Попробуйте запустить **`service_uninstall.bat`** от **ИМЕНИ АДМИНИСТРАТОРА**
   * Также отключите программы, которые могут мешать созданию сервиса *(Антивирусы, клинеры с доп. защитой)*.
 - <p style="text-align: left;">
     <img src="https://cdn-icons-png.flaticon.com/16/3670/3670147.png" alt="discord" style="vertical-align: middle;"/>
